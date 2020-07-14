@@ -11,8 +11,8 @@ presskit_download_link                    : https://notion.so                   
 
 app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Meet flosell    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : We sell your shoes, so you don't get strange messages, nor meet up.     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : It's Social | It's Fun | It's Free.
+app_price                                 : It's Social | It's Fun | It's Free.     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : We sell your shoes, so you don't get strange messages, nor meet up.
 
 enable_smart_app_banner                   : true                               # Set to true to show a smart app banner at top of page on mobile devices.
 
