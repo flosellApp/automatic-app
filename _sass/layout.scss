@@ -1,5 +1,5 @@
 .imageWrapper {					// Sets the background image in the header area
-	height: 554px;
+	height: 534px;
 	background:
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency),
@@ -58,7 +58,7 @@
 	.container {					// Set up the container for the site content
 		grid-template-rows: 80px 811px auto auto;
 	}
-} 
+}
 
 @media only screen and (max-width: 992px) {
 
