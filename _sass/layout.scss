@@ -387,7 +387,7 @@ nav > ul li a:active {
 }
 
 .iphoneScreen {
-	width: 300px;
+	width: 349px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
 	margin-left: 26px;
@@ -395,8 +395,8 @@ nav > ul li a:active {
 }
 
 .videoContainer {
-	width: 300px;
-	height: 655px;
+	width: 349px;
+	height: 755px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
 	margin-left: 26px;
@@ -620,7 +620,7 @@ footer {
 	width: 100%;
 	text-align: center;
 	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-bottom: 10px;
 }
 
 .footerIcons {
@@ -633,7 +633,7 @@ footer {
 .footerLinks {
 	display: flex;
 	text-align: center;
-	padding-bottom: 70px;
+	padding-bottom: 10px;
 }
 
 .footerLinks a {
@@ -672,7 +672,7 @@ footer {
 		width: 100%;
 		text-align: center;
 		padding-top: 54px;
-		padding-bottom: 61px;
+		padding-bottom: 10px;
 	}
 
 	.footerIcons {
