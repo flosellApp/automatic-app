@@ -32,7 +32,7 @@
                     $(".videoContainer").removeClass("hidden");
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
                     console.log("{{ file.path }}");
-                });
+                }); 
             </script>
         {% elsif file.extname == ".webm" %}
         <script>
