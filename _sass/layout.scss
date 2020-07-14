@@ -336,14 +336,13 @@ nav > ul li a:active {
 .downloadButtonsContainer {
 	display: inline-block;
 	margin-top: 22px;
-	width: 300px;
 	filter: $drop-shadow;
 }
 
 @media only screen and (max-width: 992px) {
 
 	.downloadButtonsContainer {
-		text-align: center;
+		text-align: right;
 	}
 
 }
