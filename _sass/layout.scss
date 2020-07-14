@@ -15,15 +15,15 @@
 
 }
 
-// .headerBackground {
-// 	height: 115px;
-// 	background-color: rgba($header-color, $header-transparency);
-// }
+.headerBackground {
+	height: 0px;
+	background-color: rgba($header-color, $header-transparency);
+}
 
 @media only screen and (max-width: 768px) {
 
 	.headerBackground {
-		height: 80px;
+		height: 0px;
 	}
 
 }
