@@ -4,16 +4,16 @@ page_title                                : flosell - Social Commerce           
 # App Info
 #ios_app_id                                : 1065781769  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apple.com                         # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://google.com                     # Enter Google Play Store URL.
-presskit_download_link                    : https://notion.so                   # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+appstore_link                             : https://appdistribution.firebase.dev/i/11a9a372b9237102                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=app.flosell # Enter Google Play Store URL.
+presskit_download_link                    : https://www.notion.so/Company-Wiki-27f2f429c09d4d80acbc8e9ecc1acf8d                  # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 
 app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Meet flosell    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : It's Social | It's Fun | It's Free.     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : We sell your shoes, so you don't get strange messages, nor meet up.
 
-enable_smart_app_banner                   : false    # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   :   false    # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
