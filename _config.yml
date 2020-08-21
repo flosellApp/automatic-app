@@ -4,7 +4,7 @@ page_title                                : flosell - Interactive Live Shopping 
 # App Info
 #ios_app_id                                : 1065781769  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://appdistribution.firebase.dev/i/11a9a372b9237102                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://appdistribution.firebase.dev/i/11a9a372b9237102                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=app.flosell # Enter Google Play Store URL.
 presskit_download_link                    : https://www.notion.so/Company-Wiki-27f2f429c09d4d80acbc8e9ecc1acf8d                  # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   :   false    # Set to true to show a s
 # your_name                                 : Emil Baehr
 # your_link                                 : https://emilbaehr.com
 # your_city                                 : Copenhagen
-# email_address               : emil.baehr@gmail.com
+# email_address                             : emil.baehr@gmail.com
 # facebook_username                         :
 # instagram_username                        : ebaehr
 # twitter_username                          : ebaehr
